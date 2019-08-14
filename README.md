@@ -1,6 +1,6 @@
 # URI Online Judge problem resolutions
 
-[My profile](https://www.urionlinejudge.com.br/judge/pt/profile/349069)
+[URI Online Judge](https://www.urionlinejudge.com.br) | [My profile](https://www.urionlinejudge.com.br/judge/pt/profile/349069)
 
 | Problem | Problem name | Ranking | Submission | Language | Time | Submission date |
 |------|---------------------|--------|----------|--------|-------|-------------------|
